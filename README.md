@@ -1,4 +1,4 @@
-# series-shutter
+# series-splatter
 
 Source code for a generative art series:
 
